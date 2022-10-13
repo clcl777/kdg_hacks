@@ -3,6 +3,8 @@
 # さまっする（SUMMER x MUSCLE）
 ![](sama.png)
 
+https://docs.google.com/presentation/d/1zWZ2hotA2NUDhWtG4rANzDproadDdCa-OpLkTm1dl84/edit?usp=sharing
+
 https://summer-muscle.github.io/summer-muscle/ (1人プレイのみ可能)
 
 ~~https://delightful-cliff-0bb102800.1.azurestaticapps.net/~~ (7/14よりAzure停止)
